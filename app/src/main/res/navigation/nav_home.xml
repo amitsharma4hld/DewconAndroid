@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_home"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.construction.application.ui.fragments.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_homeFragment_to_searchDetailFragment"
+            app:destination="@id/searchDetailFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_policeBackupFragment"
+            app:destination="@id/policeBackupFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_twwValueContractFragment"
+            app:destination="@id/twwValueContractFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_serviceLineReportFragment"
+            app:destination="@id/serviceLineReportFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_topSoilSeedFragment"
+            app:destination="@id/topSoilSeedFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/searchDetailFragment"
+        android:name="com.construction.application.ui.fragments.search.SearchDetailFragment"
+        android:label="Search Result"
+        tools:layout="@layout/fragment_search_detail">
+        <argument
+            android:name="activityNote"
+            app:argType="string"
+            app:nullable="true" />
+        <argument
+            android:name="assignment"
+            app:argType="string"
+            app:nullable="true" />
+        <argument
+            android:name="department"
+            app:argType="string"
+            app:nullable="true" />
+        <argument
+            android:name="location"
+            app:argType="string"
+            app:nullable="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/policeBackupFragment"
+        android:name="com.construction.application.ui.fragments.policebackup.PoliceBackupFragment"
+        android:label="Police Backup"
+        tools:layout="@layout/fragment_police_backup">
+        <action
+            android:id="@+id/action_policeBackupFragment_to_successFragment"
+            app:destination="@id/successFragment"
+            app:popUpTo="@id/nav_home"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/successFragment"
+        android:name="com.construction.application.ui.fragments.SuccessFragment"
+        android:label="Success"
+        tools:layout="@layout/fragment_sucess">
+        <argument
+            android:name="id"
+            app:argType="string"
+            app:nullable="true" />
+        <argument
+            android:name="msg"
+            app:argType="string"
+            app:nullable="true" />
+        <action
+            android:id="@+id/action_successFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:popUpTo="@id/nav_home" />
+    </fragment>
+    <fragment
+        android:id="@+id/twwValueContractFragment"
+        android:name="com.construction.application.ui.fragments.tww.TwwValueContractFragment"
+        android:label="Tww Value Contract"
+        tools:layout="@layout/fragment_tww_value_contract">
+        <action
+            android:id="@+id/action_twwValueContractFragment_to_successFragment"
+            app:destination="@id/successFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/serviceLineReportFragment"
+        android:name="com.construction.application.ui.fragments.servicelinereport.ServiceLineReportFragment"
+        android:label="Service Line Report"
+        tools:layout="@layout/fragment_service_line_report">
+        <action
+            android:id="@+id/action_serviceLineReportFragment_to_serviceLineTwoFragment"
+            app:destination="@id/serviceLineTwoFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/serviceLineTwoFragment"
+        android:name="com.construction.application.ui.fragments.servicelinereport.ServiceLineTwoFragment"
+        android:label="fragment_service_line_two"
+        tools:layout="@layout/fragment_service_line_two" >
+        <action
+            android:id="@+id/action_serviceLineTwoFragment_to_serviceLineThreeFragment"
+            app:destination="@id/serviceLineThreeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/serviceLineThreeFragment"
+        android:name="com.construction.application.ui.fragments.servicelinereport.ServiceLineThreeFragment"
+        android:label="fragment_service_line_three"
+        tools:layout="@layout/fragment_service_line_three" >
+        <action
+            android:id="@+id/action_serviceLineThreeFragment_to_successFragment"
+            app:destination="@id/successFragment"
+            app:popUpTo="@id/nav_home"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/topSoilSeedFragment"
+        android:name="com.construction.application.ui.fragments.topsoil.TopSoilSeedFragment"
+        android:label="Top Soil Seed"
+        tools:layout="@layout/fragment_top_soil_seed">
+        <action
+            android:id="@+id/action_topSoilSeedFragment_to_successFragment"
+            app:destination="@id/successFragment" />
+    </fragment>
+</navigation>

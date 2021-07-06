@@ -1,0 +1,830 @@
+[
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_watch.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_watch.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_settings.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/font_helvetica_neue_bold.otf.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/font/helvetica_neue_bold.otf"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_splash.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-hdpi/bg_splash.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_search.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_thank_your_after_submit.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_thank_your_after_submit.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_thank_your_after_submit.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_thank_your_after_submit.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable_text_input_white_background.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/drawable/text_input_white_background.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_star_rate_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_star_rate_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/menu_menu.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_baker_concrete_road.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxhdpi/ic_baker_concrete_road.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_baker_hours_input.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-hdpi/ic_baker_hours_input.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_baker_bypass_install.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-mdpi/ic_baker_bypass_install.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_service_line_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_service_line_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/layout_fragment_tww_value_contract.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_tww_value_contract.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_share_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_share_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable_logo_white.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/drawable/logo_white.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_search.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_baker_infrared_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-mdpi/ic_baker_infrared_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_baker_police_backup.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-hdpi/ic_baker_police_backup.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/layout_fragment_sucess.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_sucess.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_thank_your_after_submit.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_thank_your_after_submit.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_check_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_check_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_date.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_date.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_baker_concrete_road.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-hdpi/ic_baker_concrete_road.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable_custom_edit_text_box_bg.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/drawable/custom_edit_text_box_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_status.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_status.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_baker_hours_input.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxxhdpi/ic_baker_hours_input.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/font_helvetica_neue_ultralight.otf.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/font/helvetica_neue_ultralight.otf"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_baker_tww.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxhdpi/ic_baker_tww.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_star_rate_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_star_rate_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/font_helvetica_neue_regular.otf.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/font/helvetica_neue_regular.otf"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_baker_meter_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxhdpi/ic_baker_meter_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_share_24.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_add.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_baker_sidewalk.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-hdpi/ic_baker_sidewalk.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/font_helvetica_neue_regular_italic.otf.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/font/helvetica_neue_regular_italic.otf"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable_concreat.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/drawable/concreat.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable_img_find.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/drawable/img_find.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_watch.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_watch.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_add.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable_splash_screen_background.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/drawable/splash_screen_background.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable_hours.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/drawable/hours.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_baker_tww.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxxhdpi/ic_baker_tww.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_check_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_check_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_baker_police_backup.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxhdpi/ic_baker_police_backup.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_baker_cleaning_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxhdpi/ic_baker_cleaning_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_share_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_share_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_baker_cleaning_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxxhdpi/ic_baker_cleaning_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_star_rate_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_star_rate_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_thank_your_after_submit.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_thank_your_after_submit.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_date.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_date.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_baker_tww.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xhdpi/ic_baker_tww.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_service_line_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_service_line_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_baker_saw_cut.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-mdpi/ic_baker_saw_cut.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_baseline_star_rate_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_star_rate_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_add.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_share_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_share_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_bg_splash.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-ldpi/bg_splash.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_baker_meter_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-hdpi/ic_baker_meter_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_baker_bypass_install.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xhdpi/ic_baker_bypass_install.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_baker_sidewalk.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-mdpi/ic_baker_sidewalk.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable_custom_two_sided_rounded_corner.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/drawable/custom_two_sided_rounded_corner.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_baker_cleaning_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xhdpi/ic_baker_cleaning_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_search.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable_bypass.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/drawable/bypass.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_baker_cleaning_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-hdpi/ic_baker_cleaning_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_add.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_add.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/layout_fragment_service_line_two.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_service_line_two.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_baker_sidewalk.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxxhdpi/ic_baker_sidewalk.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_watch.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_watch.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_baker_saw_cut.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xhdpi/ic_baker_saw_cut.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_check_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_check_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_add.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_bg_splash.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/bg_splash.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_date.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_date.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_baseline_share_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_share_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_search.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_baker_top_soil_seed.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xhdpi/ic_baker_top_soil_seed.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_baker_concrete_road.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxxhdpi/ic_baker_concrete_road.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_baker_saw_cut.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-hdpi/ic_baker_saw_cut.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable_custom_input_edit_text_box_error.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/drawable/custom_input_edit_text_box_error.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_bg_splash.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v24/bg_splash.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_service_line_report.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_service_line_report.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_watch.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_watch.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_status.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_status.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_status.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_status.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_baker_police_backup.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxxhdpi/ic_baker_police_backup.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_service_line_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_service_line_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_baker_hours_input.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xhdpi/ic_baker_hours_input.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_baker_infrared_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xhdpi/ic_baker_infrared_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_baker_cleaning_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-mdpi/ic_baker_cleaning_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_star_rate_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_star_rate_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_add.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/navigation_nav_home.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/navigation/nav_home.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_baker_sidewalk.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xhdpi/ic_baker_sidewalk.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable_cleaning.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/drawable/cleaning.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_baker_meter_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-mdpi/ic_baker_meter_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_date.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_date.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/layout_fragment_service_line_report.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_service_line_report.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_baker_top_soil_seed.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxxhdpi/ic_baker_top_soil_seed.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_settings.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_service_line_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_service_line_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_baker_concrete_road.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-mdpi/ic_baker_concrete_road.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_settings.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_baker_meter_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxxhdpi/ic_baker_meter_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_baker_bypass_install.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxhdpi/ic_baker_bypass_install.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_date.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_date.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_baseline_check_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_check_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_baker_infrared_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxxhdpi/ic_baker_infrared_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_status.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_status.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_settings.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_settings.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_settings.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/font_helvetica_neue_thin.otf.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/font/helvetica_neue_thin.otf"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_watch.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_watch.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_date.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_date.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_baker_police_backup.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xhdpi/ic_baker_police_backup.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_baseline_star_rate_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_star_rate_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/layout_fragment_report_home.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_report_home.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_baker_tww.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-mdpi/ic_baker_tww.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_watch.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_watch.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_baker_sidewalk.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxhdpi/ic_baker_sidewalk.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_baker_concrete_road.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xhdpi/ic_baker_concrete_road.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_baker_hours_input.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxhdpi/ic_baker_hours_input.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_add.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_add.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/layout_fragment_home_new.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_home_new.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_baker_meter_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xhdpi/ic_baker_meter_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/layout_fragment_police_backup.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_police_backup.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/layout_fragment_search_detail.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_search_detail.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_bg_splash.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/bg_splash.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable_submit_button.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/drawable/submit_button.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_baker_bypass_install.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-hdpi/ic_baker_bypass_install.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/layout_fragment_service_line_three.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_service_line_three.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_check_24.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_check_24.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/font_helvetica_neue_light.otf.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/font/helvetica_neue_light.otf"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_baker_bypass_install.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxxhdpi/ic_baker_bypass_install.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/layout_progress_bar_layout.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/progress_bar_layout.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_thank_your_after_submit.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_thank_your_after_submit.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_baker_top_soil_seed.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-mdpi/ic_baker_top_soil_seed.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_baker_top_soil_seed.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxhdpi/ic_baker_top_soil_seed.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_baker_police_backup.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-mdpi/ic_baker_police_backup.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable_progress_custom_bg.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/drawable/progress_custom_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_status.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_status.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable_custom_input_edit_text_box.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/drawable/custom_input_edit_text_box.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable_infrared.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/drawable/infrared.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_baker_infrared_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-hdpi/ic_baker_infrared_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_share_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_share_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_bg_splash.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/bg_splash.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_date.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_date.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_settings.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_baseline_check_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_check_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_baker_saw_cut.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxhdpi/ic_baker_saw_cut.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_baker_hours_input.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-mdpi/ic_baker_hours_input.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_status.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_status.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_share_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_share_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_baker_tww.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-hdpi/ic_baker_tww.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_baseline_check_24.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_check_24.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_thank_your_after_submit.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_thank_your_after_submit.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_settings.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_settings.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_baker_top_soil_seed.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-hdpi/ic_baker_top_soil_seed.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_baker_infrared_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxhdpi/ic_baker_infrared_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_search.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_bg_splash.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-mdpi/bg_splash.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_status.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_status.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/layout_home_menu_grid_item.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/home_menu_grid_item.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_baker_saw_cut.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-xxxhdpi/ic_baker_saw_cut.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_service_line_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_service_line_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/layout_fragment_top_soil_seed.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_top_soil_seed.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/font_helvetica_font_family.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/font/helvetica_font_family.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/xml_scrollable_header_above_recycler_view_scene.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/xml/scrollable_header_above_recycler_view_scene.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_baseline_star_rate_24.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_star_rate_24.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_thank_your_after_submit.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_thank_your_after_submit.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_service_line_report.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-ldpi/ic_service_line_report.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/font_helvetica_neue_medium.otf.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/font/helvetica_neue_medium.otf"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/layout_item_list_autosuggestions.xml.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/item_list_autosuggestions.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_watch.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_watch.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_search.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/generated/res/pngs/debug/drawable-mdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/drawable/logo.png"
+    }
+]

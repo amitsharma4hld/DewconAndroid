@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.rommansabbir:NetworkX:2.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/175c37d6d7100e11511dfc5fdb366af0/NetworkX-2.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/175c37d6d7100e11511dfc5fdb366af0/NetworkX-2.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/175c37d6d7100e11511dfc5fdb366af0/NetworkX-2.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.rommansabbir/NetworkX/2.2.0/74084a21be4bcb75289f601aea8d5acdeb4dfb1b/NetworkX-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

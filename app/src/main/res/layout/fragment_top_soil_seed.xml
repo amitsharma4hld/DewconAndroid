@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.fragments.topsoil.TopSoilSeedFragment"
+    android:background="@color/gray_layout_bg"
+    android:padding="@dimen/_16sdp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:id="@+id/root_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/_56sdp"
+        >
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/txt_ll_crew_leader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/crew_leader"
+            android:textColorHint="@color/color_hint"
+            app:boxStrokeColor="@color/color_registration_edit_text_border"
+            app:errorTextAppearance="@style/ErrorTextAppearance"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:theme="@style/EditTextThemeOverlay"
+            >
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/txt_et_crew_leader"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:textColor="@color/header_text_color"
+                android:textColorHint="@color/color_hint"
+                android:textColorHighlight="@color/color_error_red"
+                />
+
+        </com.google.android.material.textfield.TextInputLayout>
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/txt_ll_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/date_must"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:textColorHint="@color/color_hint"
+            app:boxStrokeColor="@color/color_registration_edit_text_border"
+            app:errorTextAppearance="@style/ErrorTextAppearance"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:theme="@style/EditTextThemeOverlay"
+            android:layout_marginTop="@dimen/_16sdp"
+            >
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/txt_et_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/header_text_color"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:textColorHint="@color/color_hint"
+                android:textColorHighlight="@color/color_error_red"
+                android:drawableEnd="@drawable/ic_date"
+                android:drawableRight="@drawable/ic_date" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/txt_ll_work_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/work_address"
+            android:textColorHint="@color/color_hint"
+            app:boxStrokeColor="@color/color_registration_edit_text_border"
+            app:errorTextAppearance="@style/ErrorTextAppearance"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:theme="@style/EditTextThemeOverlay"
+            android:layout_marginTop="@dimen/_16sdp"
+            >
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/txt_et_work_address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/header_text_color"
+                android:maxLines="1"
+                android:lines="1"
+                android:singleLine="true"
+                android:inputType="text"
+                android:textColorHint="@color/color_hint"
+                android:textColorHighlight="@color/color_error_red"
+                />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:id="@+id/tv_police_car"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/town_job"
+            android:textColor="@color/header_text_color"
+            android:textSize="@dimen/_13sdp"
+            android:fontFamily="@font/helvetica_neue_regular"
+            android:layout_marginTop="@dimen/_24sdp"
+            />
+        <RelativeLayout
+            android:id="@+id/ll_police_car_used_radio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_edit_text_box_bg"
+            android:visibility="visible"
+            >
+
+            <RadioGroup
+                android:id="@+id/radioGroup_town_job"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="2"
+                android:paddingStart="@dimen/_8sdp"
+                android:paddingEnd="@dimen/_8sdp"
+                >
+                <RadioButton
+                    android:id="@+id/rb_north_bergen"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/header_text_color"
+                    android:fontFamily="@font/helvetica_neue_regular"
+                    android:text="North B" />
+                <RadioButton
+                    android:id="@+id/rb_rutherford"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/header_text_color"
+                    android:fontFamily="@font/helvetica_neue_regular"
+                    android:text="@string/rutherford" />
+            </RadioGroup>
+        </RelativeLayout>
+        <TextView
+            android:id="@+id/tv_work_performed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/work_performed"
+            android:textColor="@color/header_text_color"
+            android:textSize="@dimen/_13sdp"
+            android:fontFamily="@font/helvetica_neue_regular"
+            android:layout_marginTop="@dimen/_24sdp"
+            />
+        <CheckBox
+            android:id="@+id/cb_work_performed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/topsoil"
+            android:textColor="@color/header_text_color"
+            android:textSize="@dimen/_12sdp"
+            />
+        <TextView
+            android:id="@+id/tv_is_work_complete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/is_work_complete"
+            android:textColor="@color/header_text_color"
+            android:textSize="@dimen/_13sdp"
+            android:fontFamily="@font/helvetica_neue_regular"
+            android:layout_marginTop="@dimen/_24sdp"
+            />
+        <LinearLayout
+            android:id="@+id/ll_valve_start_position"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="2"
+            android:background="@drawable/custom_edit_text_box_bg"
+            >
+
+            <RadioGroup
+                android:id="@+id/radioGroup_valve_start_position_left"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:paddingStart="@dimen/_8sdp"
+                android:paddingEnd="@dimen/_8sdp"
+                android:layout_weight="1"
+                >
+                <RadioButton
+                    android:id="@+id/rb_yes"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/header_text_color"
+                    android:fontFamily="@font/helvetica_neue_regular"
+                    android:text="@string/yes" />
+                <RadioButton
+                    android:id="@+id/rb_need_to_rest"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/header_text_color"
+                    android:fontFamily="@font/helvetica_neue_regular"
+                    android:text="@string/need_to_ret"
+                    android:textSize="@dimen/_10sdp"
+                    />
+            </RadioGroup>
+
+            <RadioGroup
+                android:id="@+id/radioGroup_valve_start_position_right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingStart="@dimen/_8sdp"
+                android:paddingEnd="@dimen/_8sdp"
+                android:layout_weight="1"
+                >
+
+                <RadioButton
+                    android:id="@+id/rb_closed"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/header_text_color"
+                    android:fontFamily="@font/helvetica_neue_regular"
+                    android:text="@string/no"
+                    android:textSize="@dimen/_10sdp"/>
+
+            </RadioGroup>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_photo_one"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_marginTop="@dimen/_28sdp"
+            >
+            <ImageView
+                android:id="@+id/iv_photo_one"
+                android:layout_width="@dimen/_18sdp"
+                android:layout_height="@dimen/_18sdp"
+                android:src="@drawable/ic_add" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/header_text_color"
+                android:fontFamily="@font/helvetica_neue_regular"
+                android:text="@string/photo_1"
+                android:maxLines="1"
+                android:lines="1"
+                android:singleLine="true"
+                android:layout_marginStart="@dimen/_4sdp" />
+
+            <ImageView
+                android:id="@+id/iv_status_photo_one"
+                android:layout_width="@dimen/_18sdp"
+                android:layout_height="@dimen/_18sdp"
+                android:src="@drawable/ic_baseline_check_24"
+                android:layout_marginStart="@dimen/_8sdp"
+                android:visibility="gone"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/ll_photo_two"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_marginTop="@dimen/_18sdp"
+            >
+
+            <ImageView
+                android:id="@+id/iv_photo_two"
+                android:layout_width="@dimen/_18sdp"
+                android:layout_height="@dimen/_18sdp"
+                android:src="@drawable/ic_add" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/header_text_color"
+                android:fontFamily="@font/helvetica_neue_regular"
+                android:text="@string/photo_2"
+                android:maxLines="1"
+                android:lines="1"
+                android:singleLine="true"
+                android:layout_marginStart="@dimen/_4sdp" />
+
+            <ImageView
+                android:id="@+id/iv_status_photo_two"
+                android:layout_width="@dimen/_18sdp"
+                android:layout_height="@dimen/_18sdp"
+                android:src="@drawable/ic_baseline_check_24"
+                android:layout_marginStart="@dimen/_8sdp"
+                android:visibility="gone"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/ll_photo_three"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_marginTop="@dimen/_18sdp"
+            >
+            <ImageView
+                android:id="@+id/iv_photo_three"
+                android:layout_width="@dimen/_18sdp"
+                android:layout_height="@dimen/_18sdp"
+                android:src="@drawable/ic_add" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/header_text_color"
+                android:fontFamily="@font/helvetica_neue_regular"
+                android:text="@string/photo_3"
+                android:maxLines="1"
+                android:lines="1"
+                android:singleLine="true"
+                android:layout_marginStart="@dimen/_4sdp" />
+
+            <ImageView
+                android:id="@+id/iv_status_photo_three"
+                android:layout_width="@dimen/_18sdp"
+                android:layout_height="@dimen/_18sdp"
+                android:src="@drawable/ic_baseline_check_24"
+                android:layout_marginStart="@dimen/_8sdp"
+                android:visibility="gone"
+                />
+
+        </LinearLayout>
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/txt_ll_notes_comments"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/notes_comments"
+            android:textColorHint="@color/color_hint"
+            app:boxStrokeColor="@color/color_registration_edit_text_border"
+            app:errorTextAppearance="@style/ErrorTextAppearance"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:theme="@style/EditTextThemeOverlay"
+            android:layout_marginTop="@dimen/_16sdp"
+            >
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/txt_et_notes_comments"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/header_text_color"
+                android:maxLines="1"
+                android:lines="1"
+                android:singleLine="true"
+                android:inputType="text"
+                android:textColorHint="@color/color_hint"
+                android:textColorHighlight="@color/color_error_red"
+                />
+
+        </com.google.android.material.textfield.TextInputLayout>
+        <Button
+            android:id="@+id/bt_submit"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/_48sdp"
+            android:layout_marginBottom="@dimen/_52sdp"
+            android:text="@string/submit"
+            android:textAllCaps="false"
+            android:textSize="@dimen/_14sdp"
+            android:textColor="@color/white"
+            app:backgroundTint="@null"
+            android:fontFamily="@font/helvetica_neue_medium"
+            android:background="@drawable/submit_button"
+            />
+    </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

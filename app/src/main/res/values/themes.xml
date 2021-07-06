@@ -1,0 +1,73 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TestingApplication" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+
+    </style>
+    <!-- Customize your theme here. -->
+    <style name="SplashScreenTheme" parent = "Theme.MaterialComponents.NoActionBar">
+        <item  name="android:windowBackground">@drawable/splash_screen_background</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+
+    <style name="TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="materialThemeOverlay">@style/CustomTextInputLayoutThemeOverlay</item>
+        <item name="shapeAppearanceOverlay">@style/CustomTextInputLayoutShapeAppearanceOverlay</item>
+        <item name="textInputLayoutNormalSelectorDrawable">@drawable/custom_input_edit_text_box</item>
+        <item name="textInputLayoutErrorDrawable">@drawable/custom_input_edit_text_box_error</item>
+        <item name="boxCollapsedPaddingTop">4dp</item>
+        <item name="boxStrokeWidth">0dp</item>
+        <item name="boxStrokeWidthFocused">0dp</item>
+        <item name="hintEnabled">true</item>
+    </style>
+
+    <style name="CustomTextInputLayoutThemeOverlay" parent="ThemeOverlay.MaterialComponents.TextInputEditText.OutlinedBox">
+        <item name="editTextStyle">@style/CustomTextInputLayoutEditTextStyle</item>
+    </style>
+
+    <style name="CustomTextInputLayoutEditTextStyle" parent="Widget.MaterialComponents.TextInputEditText.OutlinedBox">
+        <!-- Padding values that total 34dp to visually match the spec. -->
+        <item name="android:paddingTop">24dp</item>
+        <item name="android:paddingBottom">10dp</item>
+    </style>
+
+    <style name="CustomTextInputLayoutShapeAppearanceOverlay" parent="">
+        <item name="cornerSizeBottomLeft">4dp</item>
+        <item name="cornerSizeBottomRight">4dp</item>
+    </style>
+
+
+    <style name="ErrorTextAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@android:color/holo_red_light</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/helvetica_neue_regular</item>
+    </style>
+
+    <style name="HelperTextAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@android:color/holo_green_dark</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+
+    <style name="HintTextAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@android:color/holo_green_dark</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="EditTextThemeOverlay" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@android:color/darker_gray</item>
+        <item name="backgroundColor">@color/white</item>
+    </style>
+
+</resources>

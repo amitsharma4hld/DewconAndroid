@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Focused -->
+    <item android:drawable="@drawable/custom_input_edit_text_box"
+        android:state_focused="true"/>
+
+    <!-- Disabled -->
+    <item android:drawable="@drawable/custom_input_edit_text_box_error"
+        android:state_enabled="false"/>
+
+    <!-- Normal -->
+    <item android:drawable="@drawable/custom_input_edit_text_box"/>
+</selector>

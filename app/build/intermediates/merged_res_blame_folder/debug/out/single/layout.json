@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_service_line_three.xml",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_service_line_three.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_tww_value_contract.xml",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_tww_value_contract.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_top_soil_seed.xml",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_top_soil_seed.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_report_home.xml",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_report_home.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sucess.xml",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_sucess.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_service_line_two.xml",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_service_line_two.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/home_menu_grid_item.xml",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/home_menu_grid_item.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_list_autosuggestions.xml",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/item_list_autosuggestions.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home_new.xml",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_home_new.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_police_backup.xml",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_police_backup.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/progress_bar_layout.xml",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/progress_bar_layout.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_service_line_report.xml",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_service_line_report.xml"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/TestingApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_search_detail.xml",
+        "source": "/Users/apple/AndroidStudioProjects/TestingApplication/app/src/main/res/layout/fragment_search_detail.xml"
+    }
+]
